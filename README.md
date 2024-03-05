@@ -32,9 +32,9 @@ Feel free to customize the game according to your preferences. You can modify th
 
 Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
+Join our Discord server to connect with other players, discuss new features, or ask for help:
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[![Discord](https://img.shields.io/badge/Discord-YourDiscordUsername-7289DA?logo=discord&logoColor=white)](https://discord.gg/tCUW5uUZJG)
 
 ---
 
